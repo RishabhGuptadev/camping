@@ -1,0 +1,23 @@
+/*header {*/
+/*    background-image:linear-gradient(rgba(0,0,0,0.5),rgb(0,0,0,0.5)),url(https://images.unsplash.com/photo-1534880606858-29b0e8a24e8d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);*/
+
+
+/*background-position: center;*/
+  
+/*}*/
+body, html {
+  height: 100%;
+}
+body{
+   background-image:url(https://images.pexels.com/photos/1687845/pexels-photo-1687845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-repeat: no-repeat;
+      background-position: center;
+      padding-top:0px;
+      
+    
+}
+.blur-me {
+  filter: blur(100px);
+  filter: grayscale(1);
+}
+
